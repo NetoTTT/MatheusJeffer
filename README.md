@@ -21,7 +21,7 @@ Sou iniciante na programação, e pretendo trabalhar com Full Stack ou Dev Mobil
 
 
 
-<h3>Linguagens favoritas:</h3>
+<h3>Minhas linguagens favoritas:</h3>
 <div> 
   <img align="center" alt="Math-Python" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Math-Js" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
